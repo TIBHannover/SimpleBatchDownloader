@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85924099-d3e8-4ee7-9ab3-bcdbbd93038d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="194" selection-start-line="2" selection-start-column="194" selection-end-line="2" selection-end-column="194" />
+              <first_editor relative-caret-position="425">
+                <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -205,7 +204,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531488148614</updated>
-      <workItem from="1531488153255" duration="1917000" />
+      <workItem from="1531488153255" duration="3079000" />
     </task>
     <task id="LOCAL-00001" summary="#initial commit">
       <created>1531488308666</created>
@@ -228,11 +227,25 @@
       <option name="project" value="LOCAL" />
       <updated>1531490002705</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated the readme">
+      <created>1531490297970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531490297970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Jar download link added to readme">
+      <created>1531490954254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531490954255</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1917000" />
+    <option name="totallyTimeSpent" value="3079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
@@ -272,7 +285,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#initial commit" />
     <MESSAGE value="changed the protected methods to public" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the protected methods to public" />
+    <MESSAGE value="updated the readme" />
+    <MESSAGE value="Jar download link added to readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jar download link added to readme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/eu/tib/BatchDownloader.java">
@@ -299,8 +314,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="194" selection-start-line="2" selection-start-column="194" selection-end-line="2" selection-end-column="194" />
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>

@@ -4,7 +4,7 @@ A Java-based simple batch downloader which has leverage over other batch downloa
 
 Features: 
 
-    Ability to specify a list of URLs from UTF8 encoded "txt" files
+    Ability to specify a list of URLs from UTF8 encoded "txt" file
     Ability to specify "output" directory
     Ability to specify the extension of the downloaded files e.g., "pdf", "txt", etcetera
     Saves the failed URLs in a "txt" file 
@@ -20,7 +20,7 @@ Features to add in the next version(s):
 Setup and Execution:
 
     Installation of Java on the system is a pre-requisite
-    Download the jar file https://1drv.ms/u/s!AsxZBX8W6nPQjX8obNVEefjjCeGq
+    Download the jar file from the release
     Open terminal/console/Powershell and enter " java -jar SimpleBatchDownloader-v0.2.jar "
     Follow the instructions :)
     Report bugs and request features here or via E-mail
