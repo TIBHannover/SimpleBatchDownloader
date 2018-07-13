@@ -63,19 +63,19 @@ public class StringTemplates {
         initMenu();
     }
 
-    protected void printOnConsole(String key){
+    public void printOnConsole(String key){
         System.out.println(properties.getProperty(key));
     }
 
-    protected void printOnConsole(String key, String extendedMessage){
+    public void printOnConsole(String key, String extendedMessage){
         System.out.println(properties.getProperty(key) + extendedMessage);
     }
 
-    protected  String getProperty(String key){
+    public  String getProperty(String key){
         return properties.getProperty(key);
     }
 
-    protected void setFileName(String fileName){
+    public void setFileName(String fileName){
         properties.setProperty("DOWNLOADED_FILE_NAME", fileName);
         properties.setProperty("DOWNLOADED_FILE_PATH", properties.getProperty("DEST_PATH") + "/"
                 + properties.getProperty("DOWNLOADED_FILE_NAME")+properties.get("FILE_EXT"));
