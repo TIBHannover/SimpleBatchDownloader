@@ -1,4 +1,4 @@
-# Simple Batch Downloader Version (0.2)
+# Simple Batch Downloader
 
 A Java-based simple batch downloader which has leverage over other batch download tools such as "wget" and "Invoke-Webrequest", as this tool is capable of downloading from non-standardized URLs.
 
